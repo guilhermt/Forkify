@@ -7,6 +7,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript - sem a utilização de bibliote
 - Padrão de arquitetura MVC;
 - Programação orientada a objetos (OOP);
 - Manipulação de DOM;
+- Local Storage;
 - Consumo de API's.
 
 
